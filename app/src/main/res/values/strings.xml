@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">U3_a15jairogc</string>
+
+    <string name="text_button1">DATOS/TELEFONO/BUSCADOR</string>
+    <string name="text_button2">DATOS</string>
+    <string name="text_busqueda">Busqueda:</string>
+    <string name="text_telefono">Telefono:</string>
+    <string name="text_pechar">Pechar</string>
+    <string name="dialog_title">Selecciona unha opción</string>
+    <string name="dialog_buscar">Busca en Google</string>
+    <string name="dialog_telefono">Abre o telefono</string>
+    <string name="text_casa">casa</string>
+    <string name="aviso_telf">Non has introducido o valor</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_u3_a15jairogc2">U3_a15jairogc2</string>
+</resources>
